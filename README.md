@@ -4,3 +4,4 @@ Animal I Love :
 -cat
 -Dog
 -Rabit
+-Hamster
